@@ -42,7 +42,7 @@
         </form>
         <form class="d-flex" role="search" margin>
             <div class="container">
-            <button class="btn btn-outline-success" type="submit">Iniciar Sesion</button>
+            <button class="btn btn-outline-success" type="submit"><a href="login.php">Iniciar Sesion</a></button>
             </div>
         </form>
         </div>
